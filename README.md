@@ -7,5 +7,7 @@
 `./eco`
 
 -Give size of Terrain (TerrainSize).
+
 -Give starting season(Season).
+
 -Give days of simulation(Cycles).
